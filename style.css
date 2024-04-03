@@ -1,3 +1,7 @@
-body{
+header{
     background-color: rgb(9, 8, 31);
+    color: #d19108;
+}
+.imagem-cabecalho{
+    width: 20%;
 }
